@@ -30,13 +30,13 @@
 
 ## 💼 Featured Projects
 
-### 🔧 Project One
+### 🔧 Health Syncc
 - A comprehensive AI-full-stack web application for managing personal health records, doctor appointments, medical visits, documents, and AI-powered pharmacy assistance.
 - Prevents Users from forgeting their Appointment along with their documents for it.All In one for user needs with remainders 
 **Tech Stack:** React / Node.js / MongoDB / Gemini-API / Cloudinary **  
 🔗 https://github.com/Vivekgithubb/HealthSync
 
-### 📊 Project Two
+### 📊 WildBarn
 - WildBarn is a comprehensive Cabin Booking & Management System designed to streamline cabin rental operations. Built using modern technologies like React 18, Supabase, and React Query, WildBarn offers an intuitive platform that handles everything from user authentication, cabin and booking management, real-time analytics, to hotel configuration settings.
 - Seperate NextJs version for CUSTOMERS and Interactive react version for ADMINS
 **Tech Stack:**  React / Nextjs / Supabase / React Query **  
