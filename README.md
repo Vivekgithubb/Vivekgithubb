@@ -87,18 +87,6 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/vivek-pai2005/
 - 🧑‍💻 GitHub: https://github.com/Vivekgithubb  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekgithubb&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vivekgithubb&theme=tokyonight" />
-</p>
-
 
 
 > 💡 *“Consistency beats intensity.”*
