@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm D Vivek Pai</h1>
 <h3 align="center">🚀 Software Developer | 💻 Full-Stack Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">> 💡*“Consistency beats intensity.”*</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vivekgithubb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -89,6 +90,4 @@
 
 
 
-> 💡 *“Consistency beats intensity.”*
 
-Make this more aesthetic and pleasing , show me a demo in canvas 
