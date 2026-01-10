@@ -1,10 +1,13 @@
-<h1 align="center">Hello ╰(*°▽°*)╯, I'm D Vivek Pai</h1>
+<h1 align="center">Hello ╰(*°▽°*)╯, I'm </h1>
 <h3 align="center">
+<p align="center">
+  <img src="D Vivek Pai.png" width="100%" alt="Banner">
+</p>
 Building scalable web apps • Solving real-world problems • Learning relentlessly
 </h3>
 
 <p align="center">
-  <em>💡 Consistency beats intensity.</em>
+  <em>💡Consistency beats intensity.</em>
 </p>
 
 <p align="center">
@@ -12,8 +15,6 @@ Building scalable web apps • Solving real-world problems • Learning relentle
     <img src="https://komarev.com/ghpvc/?username=Vivekgithubb&label=Profile%20Views&color=blueviolet" />
   </a>
 </p>
-
----
 
 ## 🧭 Who Am I...?
 
@@ -25,7 +26,8 @@ robust backend systems and solving **Data Structures & Algorithms** problems.
 
 - I believe in learning by **building, breaking, and rebuilding** — consistently.
 
----
+
+
 
 ## ⚡ What I Focus On
 
@@ -35,7 +37,9 @@ robust backend systems and solving **Data Structures & Algorithms** problems.
 - 🧪 Experimenting with modern tools and best practices
 - 🤝 Collaborating with developers to learn faster
 
----
+
+
+
 
 ## 💼 Featured Projects
 
@@ -54,6 +58,8 @@ robust backend systems and solving **Data Structures & Algorithms** problems.
 🔗 [Customer Repo](https://github.com/Vivekgithubb/theWildBarn-CustomerSide)
 
 
+
+
 ## 🛠 Tech Stack & Tools
 
 ### 👨‍💻 Languages
@@ -63,7 +69,7 @@ robust backend systems and solving **Data Structures & Algorithms** problems.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+
 
 ### 🧩 Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -76,7 +82,7 @@ robust backend systems and solving **Data Structures & Algorithms** problems.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
+
 
 ### 🗄️ Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
