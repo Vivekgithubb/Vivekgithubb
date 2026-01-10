@@ -1,48 +1,58 @@
-<h1 align="center">Hi 👋, I'm D Vivek Pai</h1>
-<h3 align="center">🚀 Software Developer | 💻 Full-Stack Enthusiast | 🌱 Lifelong Learner</h3>
-- *“Consistency beats intensity.”*
+<h1 align="center">Hello ╰(*°▽°*)╯, I'm D Vivek Pai</h1>
+<h3 align="center">
+Building scalable web apps • Solving real-world problems • Learning relentlessly
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivekgithubb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <em>💡 Consistency beats intensity.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vivekgithubb">
+    <img src="https://komarev.com/ghpvc/?username=Vivekgithubb&label=Profile%20Views&color=blueviolet" />
+  </a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧭 Who Am I...?
 
-- 📍 Based in **India**
-- 🎓 **Information Science Student**
-- 💼 Interested in **Software Development / Full-Stack /  Designing**
-- 🧠 Passionate about building **efficient, scalable, real-world applications**
-- 🛠️ Enjoy learning by **building projects and solving problems**
-- 🌱 Currently learning **advanced web technologies & Data Structures and Algorithms**
+- I’m an **Information Science student from Mangalore, India**, focused on building  
+**real-world, scalable web applications** rather than just demos.
+
+- I enjoy working across the stack — from designing clean UI experiences to building  
+robust backend systems and solving **Data Structures & Algorithms** problems.
+
+- I believe in learning by **building, breaking, and rebuilding** — consistently.
 
 ---
 
-## 🚀 What I Do
+## ⚡ What I Focus On
 
-- 💡 Build clean and maintainable applications
-- 🧩 Practice **Data Structures & Algorithms**
-- 🌐 Develop **web applications** from scratch
-- 🧪 Explore new tools, frameworks, and best practices
-- 🤝 Open to collaboration and learning with others
+- 🏗️ Designing **end-to-end web applications** (Frontend → Backend → Database)
+- 🧠 Strengthening **problem-solving skills** through DSA and Iterative Learning
+- 🚀 Building products that solve **real user problems**
+- 🧪 Experimenting with modern tools and best practices
+- 🤝 Collaborating with developers to learn faster
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔧 Health Syncc
+### 🩺 Health Syncc -**AI-powered health management platform**
 - A comprehensive AI-full-stack web application for managing personal health records, doctor appointments, medical visits, documents, and AI-powered pharmacy assistance.
-- Prevents Users from forgeting their Appointment along with their documents for it.All In one for user needs with remainders 
-**Tech Stack:** React / Node.js / MongoDB / Gemini-API / Cloudinary **  
-🔗 https://github.com/Vivekgithubb/HealthSync
+- Prevents Users from forgeting their Appointment along with their documents for it. All In one Solution for user needs with remainders  
+**Tech:** React · Node.js · MongoDB · Gemini API  · Cloudinary
+  
+🔗 [View Repository](https://github.com/Vivekgithubb/HealthSync)
 
-### 📊 WildBarn
+### 🏕️ WildBarn
 - WildBarn is a comprehensive Cabin Booking & Management System designed to streamline cabin rental operations. Built using modern technologies like React 18, Supabase, and React Query, WildBarn offers an intuitive platform that handles everything from user authentication, cabin and booking management, real-time analytics, to hotel configuration settings.
 - Seperate NextJs version for CUSTOMERS and Interactive react version for ADMINS
-**Tech Stack:**  React / Nextjs / Supabase / React Query **  
-🔗 ADMIN- https://github.com/Vivekgithubb/The-Wild-barn
-🔗 CUSTOMER- https://github.com/Vivekgithubb/theWildBarn-CustomerSide
+**Tech:** React · Next.js · Supabase · React Query  
+🔗 [Admin Repo](https://github.com/Vivekgithubb/The-Wild-barn)  
+🔗 [Customer Repo](https://github.com/Vivekgithubb/theWildBarn-CustomerSide)
+
 
 ## 🛠 Tech Stack & Tools
 
@@ -74,13 +84,18 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 
-## 🏆 Achievements & Highlights
+## 🏆Achievements & Highlights
 
-- 🏅 Runners at Nexathon 2025, National Level Tech Hackathon
-- 🧠 Solved **250+ DSA problems** 
-- 📜 Completed **Oracle OCI Foundations Associate**
+- 🥈 **Runner-up** at *Nexathon 2025* (National Level Hackathon)
+- 🧠 Solved **250+ DSA problems**
+- ☁️ **Oracle OCI Foundations Associate** certified
 
----
+## 🔭 What I’m Working Toward
+
+- Learning **System design**
+- Practicing **production-ready SaaS projects**
+- Preparing for **software engineering roles**
+
 
 ## 🌐 Connect With Me
 
@@ -90,4 +105,6 @@
 
 
 
-
+<p align="center">
+  <em>💡 Life is A Sprint, Not a Marathon.</em>
+</p>
